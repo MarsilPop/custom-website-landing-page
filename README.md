@@ -5,8 +5,8 @@ The site was made with HTML, CSS, Javascript and Bootstrap.
 
 The Project features a 
 - Dropdown menu within the NAV
-- A section separated site, including hero, portfolio, what we do
-- a testimonial section that features a slider style that you can drag with your mouse or with your fingers if you are on phone or tablet,
+- A section separated site, including hero, portfolio, what we do and more
+- a Testimonial section that features a slider style component that you can drag with your mouse or with your fingers if you are on phone or tablet,
 - the site includes a form section
 - and a footer with links to social media sites.
 - The project features responsive design, including a hamburger nav.
